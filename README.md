@@ -1,4 +1,4 @@
-# Instalasi-Sistem-Operasi-AlmaLinux
+Praktikum-Sistem-Operasi
 
 Instal System Operasi AlmaLinux
 
