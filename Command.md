@@ -158,6 +158,152 @@ fungsinya : untuk mengontrol layanan sistem
 
 fungsinya : untuk menginstal, menghapus, dan mengelola paket perangkat lunak
 
+27). firewall-cmd --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/8f4d8061-9f40-4688-9db4-6e6f5b515250" width=50% height=50%>
+
+fungsinya : mengkonfigurasi pengaturan firewall
+
+28). ifconfig --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/bfe2b228-1434-4530-92fa-ab0ce3a36ee8" width=50% height=50%> 
+
+fungsinya : menampilkan informasi antarmuka jaringan (tidak digunakan lagi, digantikan dengan perintah ip)
+
+29). ip --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/7aa41f33-6384-4a11-835f-f845e45d2034" width=50% height=50%>
+
+fungsinya : mengkonfigurasi antarmuka dan perutean jaringan
+
+30). ping --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/7475b65d-cf42-4675-9b0f-b3de20dbb9cf" width=50% height=50%>
+
+fungsinya : menguji konektivitas jaringan
+
+31). ssh --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/2b1f05e1-f328-499f-95a2-5b9dd1d5bfdd" width=50% height=50%> 
+
+fungsinya : menghubungkan ke sistem jarak jauh dengan aman
+
+32). scp --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/a23685a3-cad7-43a8-86bc-7ce6ae367afa" width=50% height=50%>
+
+fungsinya : menyalin file antar host dengan aman
+
+33). wget --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/89fabb4b-a0ba-47bf-a986-836ebd278dcc" width=50% height=50%>
+
+fungsinya : mengunduh file dari web
+
+34). curl --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/c50a57b4-e67e-47fa-9443-cd5aa55fe438" width=50% height=50%>
+
+fungsinya : mentransfer data dari atau ke server
+
+35). crontab --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/f20d476a-f571-493c-8aea-6429558f4992" width=50% height=50%>
+
+fungsinya : menjadwalkan tugas untuk dijalankan secara berkala
+
+36). useradd --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/96719e65-e026-4799-94c8-6cbf59a363f7" width=50% height=50%>
+
+fungsinya : menambahkan pengguna baru
+
+37). userdel --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/f4c0f117-bb41-414c-9a5d-500cd1227c64" width=50% height=50%> 
+
+fungsinya : menghapus pengguna
+
+38). passwd --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/ae1361d1-48a6-49dc-a3ca-eed0556b9f7b" width=50% height=50%>
+
+fungsinya : mengubah kata sandi pengguna
+
+39). sudo --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/da07275f-002a-4b34-b058-33212756cc3d" width=50% height=50%>
+
+fungsinya : menjalankan perintah dengan hak pengguna
+
+40). su --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/66d986a1-e75f-4bbc-898a-b6a3fd03eecf" width=50% height=50%> 
+
+fungsinya : mengganti akun pengguna
+
+41). history --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/4a31a0b2-e987-4d7e-a54a-c444b160baaf" width=50% height=50%>
+
+fungsinya : menampilkan riwayat perintah
+
+42). date --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/8fe69d5c-7f8d-4dde-9ac0-a2e148f51a3e" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+43). date --help
+
+<img src="" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+44). date --help
+
+<img src="" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+45). date --help
+
+<img src="" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+
+46). date --help
+
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/8fe69d5c-7f8d-4dde-9ac0-a2e148f51a3e" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+47). date --help
+
+<img src="" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+48). date --help
+
+<img src="" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+49). date --help
+
+<img src="" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+50). date --help
+
+<img src="" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+
 
 
 
