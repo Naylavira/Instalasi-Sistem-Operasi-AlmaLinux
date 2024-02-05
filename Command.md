@@ -254,50 +254,49 @@ fungsinya : menampilkan riwayat perintah
 
 fungsinya : menampilkan tanggal dan waktu saat ini
 
-43). date --help
+43). uname --help
 
 <img src="" width=50% height=50%>
 
 fungsinya : menampilkan tanggal dan waktu saat ini
 
-44). date --help
+44). hostname --help
 
 <img src="" width=50% height=50%>
 
 fungsinya : menampilkan tanggal dan waktu saat ini
 
-45). date --help
+45). whoami --help
 
 <img src="" width=50% height=50%>
 
 fungsinya : menampilkan tanggal dan waktu saat ini
 
-
-46). date --help
-
-<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/8fe69d5c-7f8d-4dde-9ac0-a2e148f51a3e" width=50% height=50%>
-
-fungsinya : menampilkan tanggal dan waktu saat ini
-
-47). date --help
+46). echo --help
 
 <img src="" width=50% height=50%>
 
 fungsinya : menampilkan tanggal dan waktu saat ini
 
-48). date --help
+47). clear --help
 
 <img src="" width=50% height=50%>
 
 fungsinya : menampilkan tanggal dan waktu saat ini
 
-49). date --help
+48). man --help
 
 <img src="" width=50% height=50%>
 
 fungsinya : menampilkan tanggal dan waktu saat ini
 
-50). date --help
+49). exit --help
+
+<img src="" width=50% height=50%>
+
+fungsinya : menampilkan tanggal dan waktu saat ini
+
+50). shutdown --help
 
 <img src="" width=50% height=50%>
 
