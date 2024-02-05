@@ -254,53 +254,54 @@ fungsinya : menampilkan riwayat perintah
 
 fungsinya : menampilkan tanggal dan waktu saat ini
 
+
 43). uname --help
 
-<img src="" width=50% height=50%>
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/10309539-1ea5-449a-9499-67a5b880a98d" width=50% height=50%>
 
-fungsinya : menampilkan tanggal dan waktu saat ini
+fungsinya : mencetak informasi sistem
 
 44). hostname --help
 
-<img src="" width=50% height=50%>
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/4cae1e7c-59f3-4387-8827-617ea06385ee" width=50% height=50%>
 
-fungsinya : menampilkan tanggal dan waktu saat ini
+fungsinya : menampilkan atau menetapkan nama host sistem
 
 45). whoami --help
 
-<img src="" width=50% height=50%>
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/d23b9c55-84c2-4a36-a43f-eb155b6cc6f0" width=50% height=50%>
 
-fungsinya : menampilkan tanggal dan waktu saat ini
+fungsinya : mencetak nama pengguna saat ini
 
 46). echo --help
 
-<img src="" width=50% height=50%>
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/1b351273-5715-4031-85b0-d0ab456c9051" width=50% height=50%>
 
-fungsinya : menampilkan tanggal dan waktu saat ini
+fungsinya : mencetak teks ke terminal
 
 47). clear --help
 
-<img src="" width=50% height=50%>
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/f35f8d9a-bf1a-49ab-8dbc-1e84a8e10d29" width=50% height=50%>
 
-fungsinya : menampilkan tanggal dan waktu saat ini
+fungsinya : menghapus layar terminal
 
 48). man --help
 
-<img src="" width=50% height=50%>
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/0f670ac8-a399-433d-9fea-4af99f432b9c" width=50% height=50%>
 
-fungsinya : menampilkan tanggal dan waktu saat ini
+fungsinya : menampilkan halaman manual untuk perintah
 
 49). exit --help
 
-<img src="" width=50% height=50%>
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/fea84c8b-a21b-44d9-9f96-ee76f6927759" width=50% height=50%>
 
-fungsinya : menampilkan tanggal dan waktu saat ini
+fungsinya : keluar dari shell saat ini
 
 50). shutdown --help
 
-<img src="" width=50% height=50%>
+<img src="https://github.com/Naylavira/Praktikum-Sistem-Operasi-Nayla/assets/151722965/feb63e79-6d6c-4b92-ab7d-9d2e9b6e0bbd" width=50% height=50%>
 
-fungsinya : menampilkan tanggal dan waktu saat ini
+fungsinya : mematikan atau memulai ulang sistem
 
 
 
